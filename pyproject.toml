@@ -1,0 +1,15 @@
+[project]
+name = "tirta-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "google>=3.0.0",
+    "google-api-python-client>=2.194.0",
+    "google-genai>=1.73.1",
+    "load-dotenv>=0.1.0",
+    "openai>=2.32.0",
+    "pillow>=12.2.0",
+    "rich>=15.0.0",
+]
