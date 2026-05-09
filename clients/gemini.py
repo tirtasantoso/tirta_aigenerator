@@ -10,13 +10,13 @@ from PIL import Image
 from .common import create_incremental_file, open_prompt_file
 
 def generate_gemini_content(
-    prompts: list[Path|str] = ['./prompts/prompt1.md', ],
-    files: list[Path|str] = []
+        prompts: list[Path|str] = ['./prompts/prompt1.md', ],
+        files: list[Path|str] = []
     ):
 
     print(f'Gemini content generation starts now...')
 
-    gemini_model = "gemini-3-flash-preview" # either "gemini-3.1-pro-preview", "gemini-3.1-flash-lite-preview", 'gemini-3-flash-preview'
+    gemini_model = "gemini-3.1-flash-lite-preview" # either "gemini-3.1-pro-preview", "gemini-3.1-flash-lite-preview", 'gemini-3-flash-preview'
 
     client = genai.Client(
         api_key=os.environ.get('GEMINI_API_KEY')
@@ -40,18 +40,41 @@ def generate_gemini_content(
     )
 
     output_file = create_incremental_file(f"./outputs/gemini_{datetime.now():%Y%m%d_%H%M%S}.md")
-    with open(output_file, "w") as f:
-        f.write(f'{gemini_model}\n-----------------------------------------------------------------\n\n')
+    output_reasoning_file = create_incremental_file(f"./outputs/gemini_{datetime.now():%Y%m%d_%H%M%S}_reasoning.md")
+
+    with open(output_file, "w") as f, open(output_reasoning_file, "w") as f_reasoning:
+        f_reasoning.write(
+            f'{gemini_model}\n'
+            f'==================================\n'
+            f'*{output_reasoning_file}*\n\n'
+            f'{open_prompt_file(prompts[0])}\n'
+        )
+
+        f.write(
+            f'{gemini_model}\n'
+            f'==================================\n'
+            f'*{output_file}*\n\n'
+        )
+
         for chunk in response:
             f.write(chunk.text)
             f.flush()
+
+        f_reasoning.write(
+            f'\n\n----------------------------------\n\n'
+        )
+        f.write(
+            f'\n\n----------------------------------\n\n'
+        )
+
+        f_reasoning.close()
         f.close()
 
 
     # chat round 2
     # -------------------------------------------------------------------------
     if len(prompts) < 2:
-        print(f'Gemini content generation is done: {output_file}')
+        print(f'Gemini content generation is done: {output_file}, {output_reasoning_file}')
         return
 
     else:
@@ -60,23 +83,37 @@ def generate_gemini_content(
             response = chat.send_message_stream(
                 message=message2,
             )
-            with open(output_file, "a") as f:
-                f.write('\n\n=================================================================\n\n')
-                f.write(message2)
-                f.write('\n\n-----------------------------------------------------------------\n\n')
+            with open(output_file, "a") as f, open(output_reasoning_file, "a") as f_reasoning:
+                f_reasoning.write(
+                    f'## {prompt}\n'
+                    f'{message2}\n'
+                    f'\n\n----------------------------------\n\n'
+                )
+
+                f.write(
+                    f'## {prompt}\n'
+                    f'*{output_file}*\n\n'
+                )
+
                 for chunk in response:
                     f.write(chunk.text)
                     f.flush()
+
+                f.write(
+                    f'\n\n----------------------------------\n\n'
+                )
+
+                f_reasoning.close()
                 f.close()
 
-    print(f'Gemini content generation is done: {output_file}')
+    print(f'Gemini content generation is done: {output_file}, {output_reasoning_file}')
 
 
 def generate_gemini_image(prompts=['./prompts/image_prompt1.md', ], files=['./files/file1.pdf', ]):
 
     print(f'Gemini image generation starts now...')
 
-    gemini_model = "gemini-3.1-flash-image-preview" # either "gemini-3.1-flash-image-preview", "gemini-3-pro-image-preview'
+    gemini_model = "gemini-3-pro-image-preview" # either "gemini-3.1-flash-image-preview", "gemini-3-pro-image-preview'
 
     client = genai.Client(
         api_key=os.environ.get('GEMINI_API_KEY')
@@ -95,15 +132,19 @@ def generate_gemini_image(prompts=['./prompts/image_prompt1.md', ], files=['./fi
     )
 
     output_file = create_incremental_file(f"./outputs/gemini_{datetime.now():%Y%m%d_%H%M%S}.md")
+    with open(output_file, "w") as f:
+        f.write(f'#gemini_model:\n{gemini_model}\n\n')
+        f.write(f'#files:\n{files}\n\n')
+        f.write(f'#message:\n {message1}\n')
+        f.write(f'================')
     for part in response.parts:
         if part.text is not None:
-            with open(output_file, "w") as f:
+            with open(output_file, "a") as f:
                 f.write(part.text)
                 f.flush()
                 f.close()
         elif part.inline_data is not None:
             image = part.as_image()
             image.save(output_file.with_suffix('.png'))
-
 
     print(f'Gemini image generation is done: {output_file}')
