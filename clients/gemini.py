@@ -39,8 +39,9 @@ def generate_gemini_content(
         message=[message1] + myfiles,
     )
 
-    output_file = create_incremental_file(f"./outputs/gemini_{datetime.now():%Y%m%d_%H%M%S}.md")
-    output_reasoning_file = create_incremental_file(f"./outputs/gemini_{datetime.now():%Y%m%d_%H%M%S}_reasoning.md")
+    output_file_name = f"gemini_{datetime.now():%Y%m%d_%H%M%S}"
+    output_file = create_incremental_file(f"./outputs/{output_file_name}.md")
+    output_reasoning_file = create_incremental_file(f"./outputs/{output_file_name}_reasoning.md")
 
     with open(output_file, "w") as f, open(output_reasoning_file, "w") as f_reasoning:
         f_reasoning.write(
@@ -109,11 +110,12 @@ def generate_gemini_content(
     print(f'Gemini content generation is done: {output_file}, {output_reasoning_file}')
 
 
+
 def generate_gemini_image(prompts=['./prompts/image_prompt1.md', ], files=['./files/file1.pdf', ]):
 
     print(f'Gemini image generation starts now...')
 
-    gemini_model = "gemini-3-pro-image-preview" # either "gemini-3.1-flash-image-preview", "gemini-3-pro-image-preview'
+    gemini_model = "gemini-3.1-flash-image-preview" # either "gemini-3.1-flash-image-preview", "gemini-3-pro-image-preview'
 
     client = genai.Client(
         api_key=os.environ.get('GEMINI_API_KEY')
