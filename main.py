@@ -12,11 +12,12 @@ def main():
     generate_deepseek_content(
         prompts=[
             './prompts/prompt1.md',
-            './prompts/prompt11_rogr_trauma.md',
+            # './prompts/prompt11_rogr_trauma.md',
             './prompts/prompt12_sentient_aura.md',
             './prompts/prompt13_immune_system.md',
             './prompts/prompt14_godric_intelligence.md',
             './prompts/prompt15_godric_magic.md',
+            './prompts/prompt16_statjournals.md',
         ],
         files=['./prompts/references/_reference_thronegate.md',],
     )
@@ -24,11 +25,12 @@ def main():
     generate_gemini_content(
         prompts=[
             './prompts/prompt1.md',
-            './prompts/prompt11_rogr_trauma.md',
+            # './prompts/prompt11_rogr_trauma.md',
             './prompts/prompt12_sentient_aura.md',
             './prompts/prompt13_immune_system.md',
             './prompts/prompt14_godric_intelligence.md',
             './prompts/prompt15_godric_magic.md',
+            './prompts/prompt16_statjournals.md',
         ],
         files=['./prompts/references/_reference_thronegate.md',],
     )
