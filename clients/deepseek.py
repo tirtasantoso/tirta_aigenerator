@@ -48,8 +48,8 @@ def generate_deepseek_content(
         #         },
         #     ]
         for file_location in files:
-            chat_settings['messages'] += [
-                {"role": "user", "content": open_prompt_file(file_location),}
+            content_files += [
+                {"type": "text", "text": open_prompt_file(file_location),}
             ]
 
     # chat round 1
@@ -105,6 +105,10 @@ def generate_deepseek_content(
         f_reasoning.close()
         f.close()
 
+    chat_settings['messages'] += [
+        {"role": "assistant", "reasoning_content": reasoning_assistant, "content": content_assistant},
+    ]
+
 
     # chat round 2
     # -------------------------------------------------------------------------
@@ -113,9 +117,6 @@ def generate_deepseek_content(
         return
 
     else:
-        chat_settings['messages'] += [
-            {"role": "assistant", "reasoning_content": reasoning_assistant, "content": content_files + [{"type": "text", "text": content_assistant},],},
-        ]
         for prompt in prompts[1:]:
 
             chat_settings['messages'] += [
@@ -164,7 +165,7 @@ def generate_deepseek_content(
                 f.close()
 
             chat_settings['messages'] += [
-                {"role": "assistant", "reasoning_content": reasoning_assistant, "content": content_files + [{"type": "text", "text": content_assistant},],},
+                {"role": "assistant", "reasoning_content": reasoning_assistant, "content": content_assistant},
             ]
 
 
