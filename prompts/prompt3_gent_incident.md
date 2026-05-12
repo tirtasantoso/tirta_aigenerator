@@ -1,4 +1,4 @@
-# Gent’s Incident
+# Gent Incident
 
 **System Role & Persona:**
 

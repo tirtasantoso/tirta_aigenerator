@@ -1,4 +1,4 @@
-# Wizards Pride
+# Godric's Magic
 
 **System Role & Persona:**
 

@@ -1,0 +1,1 @@
+write in great detail of all the strongest popular fictional universes who has formed a united force to overthrow godric, at the year 987,654,321. Include some popular overpowered characters (name them too if possible) in that force. write from the perspective of Rutger, the current court wizard who happened to witness the fight. Include dialogues.
