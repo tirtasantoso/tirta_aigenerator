@@ -1,0 +1,1 @@
+write in great detail of various strongest popular fictional universes who has formed a united force to overthrow zeus, 1000000 years in the future. Include some popular overpowered characters (name them too if possible) in that force. write from the perspective of Roger, one of thronegate men who happened to witness the fight. Include dialogues.

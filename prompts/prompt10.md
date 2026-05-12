@@ -1,0 +1,1 @@
+Cragzo is the most powerful being in his universe, who lost against Thronegate and had been subjugated. He is to represent his universe to swear fealty to Thronegate in front of Godric in his throne room. Explain in detail the meeting and the aftermath, the psychological impact, the existential dread. Write from Cragzo's pov 15 years after the meeting.

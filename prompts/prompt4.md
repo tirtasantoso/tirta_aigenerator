@@ -1,0 +1,1 @@
+Please provide a comprehensive summary of our entire conversation so far that I can paste into a new chat to continue without any gap in necessary knowledge

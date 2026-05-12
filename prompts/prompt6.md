@@ -1,0 +1,1 @@
+write a detailed story of godric deciding to subjugate irl universe. write from godric's pov.

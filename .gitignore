@@ -49,5 +49,5 @@ coverage.xml
 
 # application-specific
 # outputs/*
-prompts/*
+# prompts/*
 .env
