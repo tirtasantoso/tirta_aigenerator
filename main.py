@@ -9,48 +9,48 @@ def main():
 
     print("[green]Running AI main function[/green]")
 
-    # generate_deepseek_content(
-    #     prompts=[
-    #         {
-    #             'message': './prompts/prompt7_statjournals.md',
-    #             'files': [
-    #                 './prompts/references/thronegate/00_MASTER_LORE.md',
-    #                 './prompts/references/thronegate/01_godric_origin.md',
-    #                 './prompts/references/thronegate/02_rogr_trauma.md',
-    #                 './prompts/references/thronegate/03_sentient_aura.md',
-    #                 './prompts/references/thronegate/04_immune_system.md',
-    #                 './prompts/references/thronegate/05_godric_intelligence.md',
-    #                 './prompts/references/thronegate/06_godric_magic.md',
-    #             ]
-    #         },
-    #         {
-    #             'message': './prompts/prompt7b_redothis.md',
-    #             'files': [
-    #                 './prompts/references/thronegate/07_statjournals.md',
-    #             ]
-    #         },
-    #         {
-    #             'message': './prompts/prompt8_superpowers.md',
-    #             'files': []
-    #         },
-    #         {
-    #             'message': './prompts/prompt9_boring_rebellion.md',
-    #             'files': []
-    #         },
-    #         {
-    #             'message': './prompts/prompt20_godric_vs_earth.md',
-    #             'files': []
-    #         },
-    #         {
-    #             'message': './prompts/prompt21_godric_vs_fiction.md',
-    #             'files': []
-    #         },
-    #         {
-    #             'message': './prompts/prompt21_wizards_life.md',
-    #             'files': []
-    #         },
-    #     ],
-    # )
+    generate_deepseek_content(
+        prompts=[
+            {
+                'message': './prompts/prompt7_statjournals.md',
+                'files': [
+                    './prompts/references/thronegate/00_MASTER_LORE.md',
+                    './prompts/references/thronegate/01_godric_origin.md',
+                    './prompts/references/thronegate/02_rogr_trauma.md',
+                    './prompts/references/thronegate/03_sentient_aura.md',
+                    './prompts/references/thronegate/04_immune_system.md',
+                    './prompts/references/thronegate/05_godric_intelligence.md',
+                    './prompts/references/thronegate/06_godric_magic.md',
+                ]
+            },
+            {
+                'message': './prompts/prompt7b_redothis.md',
+                'files': [
+                    './prompts/references/thronegate/07_statjournals.md',
+                ]
+            },
+            {
+                'message': './prompts/prompt8_superpowers.md',
+                'files': []
+            },
+            {
+                'message': './prompts/prompt9_boring_rebellion.md',
+                'files': []
+            },
+            {
+                'message': './prompts/prompt20_godric_vs_earth.md',
+                'files': []
+            },
+            {
+                'message': './prompts/prompt21_godric_vs_fiction.md',
+                'files': []
+            },
+            {
+                'message': './prompts/prompt21_wizards_life.md',
+                'files': []
+            },
+        ],
+    )
 
     generate_gemini_content(
         prompts=[
