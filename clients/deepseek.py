@@ -59,7 +59,7 @@ def generate_deepseek_content(
     #             {"type": "text", "text": open_prompt_file(file_location),}
     #         ]
     content_files = [
-        {"type": "text", "text": open_prompt_file(file)} for file in prompts[0]['files'] if 'files' in prompts[0] and prompts[0]['files']
+        {"type": "text", "text": f'<file name="{Path(file).name}">{open_prompt_file(file)}</file>'} for file in prompts[0]['files'] if 'files' in prompts[0] and prompts[0]['files']
     ]
     chat_settings['messages'] += [
         {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompts[0]['message'])},],}
@@ -126,7 +126,7 @@ def generate_deepseek_content(
     else:
         for prompt in prompts[1:]:
             content_files = [
-                {"type": "text", "text": open_prompt_file(file)} for file in prompt['files'] if 'files' in prompt and prompt['files']
+                {"type": "text", "text": f'<file name="{Path(file).name}">{open_prompt_file(file)}</file>'} for file in prompt['files'] if 'files' in prompt and prompt['files']
             ]
             chat_settings['messages'] += [
                 {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompt["message"])},],},
