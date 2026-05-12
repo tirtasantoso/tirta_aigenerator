@@ -10,8 +10,7 @@ from PIL import Image
 from .common import create_incremental_file, open_prompt_file
 
 def generate_gemini_content(
-        prompts: list[Path|str] = ['./prompts/prompt1.md', ],
-        files: list[Path|str] = []
+        prompts: list[dict] = [{'message': './prompts/prompt1.md', 'files': []}],
     ):
 
     print(f'Gemini content generation starts now...')
@@ -24,19 +23,18 @@ def generate_gemini_content(
 
     chat = client.chats.create(
         model=gemini_model,
+        config={
+             'system_instruction': open_prompt_file('./prompts/references/_system_role.md'),
+        }
     )
-
-    if files and len(files) > 0:
-        myfiles = [client.files.upload(file=Path(file_location)) for file_location in files]
-    else:
-        myfiles = []
 
     # chat round 1
     # -------------------------------------------------------------------------
-    message1 = open_prompt_file(prompts[0])
+    message1 = open_prompt_file(prompts[0]['message'])
+    files1 = [client.files.upload(file=Path(file_location)) for file_location in prompts[0]['files'] if 'files' in prompts[0] and prompts[0]['files']]
     response = chat.send_message_stream(
         # message=message1,
-        message=[message1] + myfiles,
+        message=[message1] + files1,
     )
 
     output_file_name = f"gemini_{datetime.now():%Y%m%d_%H%M%S}"
@@ -48,7 +46,7 @@ def generate_gemini_content(
             f'{gemini_model}\n'
             f'==================================\n'
             f'*{output_reasoning_file}*\n\n'
-            f'{open_prompt_file(prompts[0])}\n'
+            f'{open_prompt_file(prompts[0]["message"])}\n'
         )
 
         f.write(
@@ -80,19 +78,20 @@ def generate_gemini_content(
 
     else:
         for prompt in prompts[1:]:
-            message2 = open_prompt_file(prompt)
+            message2 = open_prompt_file(prompt['message'])
+            files2 = [client.files.upload(file=Path(file_location)) for file_location in prompt['files'] if 'files' in prompt and prompt['files']]
             response = chat.send_message_stream(
-                message=message2,
+                message=[message2] + files2,
             )
             with open(output_file, "a") as f, open(output_reasoning_file, "a") as f_reasoning:
                 f_reasoning.write(
-                    f'## {prompt}\n'
+                    f'## {prompt["message"]}\n'
                     f'{message2}\n'
                     f'\n\n----------------------------------\n\n'
                 )
 
                 f.write(
-                    f'## {prompt}\n'
+                    f'## {prompt["message"]}\n'
                     f'*{output_file}*\n\n'
                 )
 

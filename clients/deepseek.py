@@ -7,8 +7,7 @@ from pathlib import Path
 from .common import create_incremental_file, open_prompt_file
 
 def generate_deepseek_content(
-        prompts: list[Path|str] = ['./prompts/prompt1.md', ],
-        files: list[Path|str] = [],
+        prompts: list[dict] = [{'message': './prompts/prompt1.md', 'files': []}],
         reasoning_effort: str|bool = 'max',
     ):
 
@@ -23,7 +22,12 @@ def generate_deepseek_content(
 
     chat_settings = {
         'model': deepseek_model, # either 'deepseek-v4-flash' or 'deepseek-v4-pro',
-        'messages': [],
+        'messages': [
+            {
+                "role": "system",
+                "content": open_prompt_file('./prompts/references/_system_role.md')
+            }
+        ],
         'stream': True,
         'max_tokens': 393216, # max 393216, min 1, default 4096
         'temperature': 2.0, # the higher the more creative the output, the lower the more focused and deterministic the output. Default is 1.0
@@ -34,28 +38,31 @@ def generate_deepseek_content(
             'extra_body': {"thinking": {"type": "enabled"}},
         })
 
-    content_files = []
-    if files and len(files) > 0:
-        # for file_location in files:
-        #     file_obj = client.files.create(
-        #         file=open(Path(file_location), "rb"),
-        #         purpose="user_data"
-        #     )
-        #     content_files += [
-        #         {
-        #             "type": "input_file",
-        #             "file_id": file_obj.id,
-        #         },
-        #     ]
-        for file_location in files:
-            content_files += [
-                {"type": "text", "text": open_prompt_file(file_location),}
-            ]
 
     # chat round 1
     # -------------------------------------------------------------------------
+    # content_files = []
+    # if files and len(files) > 0:
+    #     # for file_location in files:
+    #     #     file_obj = client.files.create(
+    #     #         file=open(Path(file_location), "rb"),
+    #     #         purpose="user_data"
+    #     #     )
+    #     #     content_files += [
+    #     #         {
+    #     #             "type": "input_file",
+    #     #             "file_id": file_obj.id,
+    #     #         },
+    #     #     ]
+    #     for file_location in files:
+    #         content_files += [
+    #             {"type": "text", "text": open_prompt_file(file_location),}
+    #         ]
+    content_files = [
+        {"type": "text", "text": open_prompt_file(file)} for file in prompts[0]['files'] if 'files' in prompts[0] and prompts[0]['files']
+    ]
     chat_settings['messages'] += [
-        {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompts[0])},],}
+        {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompts[0]['message'])},],}
     ]
     response = client.chat.completions.create(
         **chat_settings
@@ -74,7 +81,7 @@ def generate_deepseek_content(
             f'{deepseek_model}\n'
             f'==================================\n'
             f'*{output_reasoning_file}*\n\n'
-            f'{open_prompt_file(prompts[0])}\n'
+            f'{open_prompt_file(prompts[0]["message"])}\n'
             f'\n----------------------------------\n'
             f'<blockquote>\n'
         )
@@ -118,9 +125,11 @@ def generate_deepseek_content(
 
     else:
         for prompt in prompts[1:]:
-
+            content_files = [
+                {"type": "text", "text": open_prompt_file(file)} for file in prompt['files'] if 'files' in prompt and prompt['files']
+            ]
             chat_settings['messages'] += [
-                {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompt)},],},
+                {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompt["message"])},],},
             ]
 
             response = client.chat.completions.create(
@@ -133,14 +142,14 @@ def generate_deepseek_content(
             with open(output_reasoning_file, "a") as f_reasoning, open(output_file, "a") as f:
 
                 f_reasoning.write(
-                    f'## {prompt}\n'
+                    f'## {prompt["message"]}\n'
                     f'*{output_reasoning_file}*\n\n'
-                    f'{open_prompt_file(prompt)}\n'
+                    f'{open_prompt_file(prompt["message"])}\n'
                     f'<blockquote>\n'
                 )
 
                 f.write(
-                    f'## {prompt}\n'
+                    f'## {prompt["message"]}\n'
                     f'*{output_file}*\n\n'
                 )
 
