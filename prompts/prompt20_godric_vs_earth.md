@@ -1,1 +1,1 @@
-write a detailed story of godric deciding to subjugate irl universe. write from godric's pov.
+Write a detailed story of Godric deciding to subjugate IRL universe. Year 1,150,000. Write from Godric's pov, who feels mischievously playful so he doesn't instantly finish it. Earth obviously, has 0 chance, and experience total despair.

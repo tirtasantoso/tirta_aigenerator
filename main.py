@@ -33,10 +33,10 @@ def main():
                 'message': './prompts/prompt8_superpowers.md',
                 'files': []
             },
-            {
-                'message': './prompts/prompt9_boring_rebellion.md',
-                'files': []
-            },
+            # {
+            #     'message': './prompts/prompt9_boring_rebellion.md',
+            #     'files': []
+            # },
             {
                 'message': './prompts/prompt20_godric_vs_earth.md',
                 'files': []
@@ -46,7 +46,7 @@ def main():
                 'files': []
             },
             {
-                'message': './prompts/prompt21_wizards_life.md',
+                'message': './prompts/prompt22_wizards_life.md',
                 'files': []
             },
         ],
@@ -89,7 +89,7 @@ def main():
                 'files': []
             },
             {
-                'message': './prompts/prompt21_wizards_life.md',
+                'message': './prompts/prompt22_wizards_life.md',
                 'files': []
             },
         ],
