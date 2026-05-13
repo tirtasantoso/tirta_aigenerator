@@ -401,10 +401,10 @@ When an injury is detected or falsely perceived:
 ## **Court Wizard Amplification**
 
 * Blake receives a modified version of the Awakening:
-  * thousandfold daily amplification after age 20 instead of tenfold.
+  * thousandfold daily amplification after age 20 instead of tenfold. He can suppress his power to normal human levels or raise it to any level up to their maximum.
   * He remains mortal.
   * Blake eventually dies at 88\.
-* Blake’s descendants also inherit a thousandfold daily amplification after age 20\.
+* Blake’s descendants also inherit a thousandfold daily amplification after age 20\. They can suppress their power to normal human levels or raise it to any level up to their maximum.
 * Their magic becomes terrifying by mortal and cosmic standards.
 * Compared to Godric, their magic is effectively zero.
 * Godric’s magical traits multiply infinitely every Planck second:
