@@ -11,6 +11,7 @@ from .common import create_incremental_file, open_prompt_file
 
 def generate_gemini_content(
         prompts: list[dict] = [{'message': './prompts/prompt1.md', 'files': []}],
+        system_persona: str = './prompts/references/_system_role.md',
     ):
 
     print(f'Gemini content generation starts now...')
@@ -24,7 +25,7 @@ def generate_gemini_content(
     chat = client.chats.create(
         model=gemini_model,
         config={
-             'system_instruction': open_prompt_file('./prompts/references/_system_role.md'),
+             'system_instruction': open_prompt_file(system_persona),
         }
     )
 

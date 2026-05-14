@@ -9,6 +9,8 @@ def main():
 
     print("[green]Running AI main function[/green]")
 
+    system_persona = './prompts/references/thronegate/_SYSTEM_PERSONA.md'
+
     prompts_list = [
         {
             'message': './prompts/prompt7_statjournals.md',
@@ -52,6 +54,7 @@ def main():
     ]
 
     generate_deepseek_content(
+        system_persona=system_persona,
         prompts=prompts_list,
     )
 
@@ -60,6 +63,7 @@ def main():
     # )
 
     generate_gemini_content(
+        system_persona=system_persona,
         prompts=prompts_list,
     )
 

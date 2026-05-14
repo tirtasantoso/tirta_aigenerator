@@ -8,6 +8,7 @@ from pathlib import Path
 from .common import create_incremental_file, open_prompt_file
 
 def generate_deepseek_content(
+        system_persona: str = './prompts/references/_system_role.md',
         prompts: list[dict] = [{'message': './prompts/prompt1.md', 'files': []}],
         reasoning_effort: str|bool = 'max',
     ):
@@ -26,7 +27,7 @@ def generate_deepseek_content(
         'messages': [
             {
                 "role": "system",
-                "content": open_prompt_file('./prompts/references/_system_role.md')
+                "content": open_prompt_file(system_persona)
             }
         ],
         'stream': True,
