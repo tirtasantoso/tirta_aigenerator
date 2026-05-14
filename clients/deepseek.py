@@ -1,4 +1,5 @@
 import os
+import json
 
 from openai import OpenAI
 from datetime import datetime
@@ -181,10 +182,22 @@ def generate_deepseek_content(
     # from pprint import pprint
     # pprint(f'------------chat_settings------------')
     # pprint(chat_settings)
-    import json
     output_json_file = create_incremental_file(f"./outputs/{output_file_name}_reasoning.json")
     with open(output_json_file, "a") as f:
         f.write(json.dumps(chat_settings, indent=4))
         f.close()
 
     print(f'Deepseek content generation is done: {output_file}, {output_reasoning_file}')
+
+
+def generate_deepseek_file_list(
+        prompt: dict = {'message': './prompts/prompt1.md', 'files': []},
+        create_doc = False,
+    ):
+        output_json_file = create_incremental_file(f"./outputs/{Path(prompt['message']).stem}_filelist.json")
+        json_content = []
+        for file in prompt['files']:
+            json_content.append({"file": Path(file).name, "content": open_prompt_file(file)})
+        with open(output_json_file, "a") as f:
+            f.write(json.dumps(json_content, indent=4))
+            f.close()
