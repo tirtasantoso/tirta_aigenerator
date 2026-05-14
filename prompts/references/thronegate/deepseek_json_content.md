@@ -1,3 +1,5 @@
+Treat the following list of files, presented in JSON format, as additional context for ALL the prompts in this chat. The content is from the master reference lore of the Thronegate saga, which includes core world-building, character biography, power system, and timeline. You can use this content to supplement your responses to any prompts related to the Thronegate saga.
+
 [
     {
         "file": "00_MASTER_LORE.md",

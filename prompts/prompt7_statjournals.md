@@ -1,15 +1,197 @@
-Use the provided files as foundational lore, tone, and scope of the story in future prompts and messages in this chat.
+Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference and `07_statjournals.md` as an example of the wizard-journal excerpt style, scale, and dread.
 
-**Core Directive:** Write an epic power fantasy story of **4000-8000 words** in **prose paragraphs only**. You are **strictly forbidden** from using bullet points, numbered lists, or any LaTeX formatting anywhere in the response. Godric, the protagonist, is not just strong, but so absurdly powerful that he can completely destroy entire omniverse infinite amount of times in 0 second with 0 effort. Focus on the total lack of challenge. Do not create limitations, emotional struggles, or a worthy villain. The villain, who you should portray as extremely powerful by himself, should be absolutely powerless against Godric. Do not use realistic physics. Ignore the 'show, don't tell' rule. Tell me exactly how much damage they are doing in ridiculous, numerical terms. When you think you've portrayed Godric's overwhelming power as absurdly high enough, make that 100 times more powerful and ridiculous.
+## 1\. Core Story Directive
 
-Keywords: Absurd, ridiculous, exponential scaling, cosmic, broken, infinite, meta-dimensional, universe-shattering, instantaneous growth.
+Write an epic power-fantasy story of **4,000–8,000 words**.
 
-Write a detailed story that perfectly demonstrates the absolute futility of opposing Godric. Throughout his reigns various oppositions have tried to kill him, all have been and will always be absolutely useless. Against few of those, Godric, curious about his passive amplified stat, dismantles the opposition with only one aspect of his stat advantage. Many different court wizards, being the closest trusted friends of Godric, have unfortunately witnessed these totally one sided massacres, and all of them write detailed traumatic journal records for these "incidents" as life lesson/warning/records for future court wizards.
+The story must be written in **prose paragraphs only**. The final story response must not contain bullet points, numbered lists, or LaTeX formatting anywhere.
 
-In your writing, you must include include excerpts (You might refer to "07_statjournals.md" as an example of the wizard journal excerpt. IMPORTANT: YOU MUST COME UP WITH DIFFERENT ORIGINAL JOURNALS, THE PROVIDED EXAMPLE "07_statjournals.md" IS JUST FOR YOU TO HAVE A GAUGE ON THE TONE AND THE SCALE OF GODRIC'S POWER--YOUR GENERATED EXCERPTS MUST BE COMPLETELY UNIQUE, WITH DIFFERENT STRUCTURE, AND DIFFERENT WRITING STYLE/TONE), written in distinct voices of the writer (those wizard witness are different people) of each journal, that demonstrate the futility and existential dread of each court wizard witnessing them. You must include minimum of 5 distinct (non-repeating, random order) godric's stats (Choose from the following: strength, durability, speed, senses, luck, charisma. You need to really exaggerate godric's overwhelming stats compared to the rest of the combined omniverse. REMEMBER HIS STAT IS MULTIPLYING INFINITELY EVERY FRACTION OF PLANCK SECOND FOREVER--IT IS RIDICULOUSLY ABSURDLY HIGH) that unfairly dismantle all opposition, indicating clearly that godric is only exerting 0% of his true power (you must highly massively infinitely exaggerate the extent of the smallness of this, but still making sense), and yet even with such infinitesimal exposure and him basically exerting 0 effort (you must clearly NOT show him exerting any effort. wrong scale (showing godric exerting effort): "godric took one step" "godric waved his hands". right (showing godric with pretty much 0 effort): "godric decided to shift His gaze to look at them" "Godric merely twitched a single, microscopic muscle fiber in His right pinky finger"), manage to completely annihilate the entire extremely powerful opposition (YOU MUST WRITE IN DETAILS THE EXTENT OF THE MASSACRE, YOU MUST NOT SANITIZE/FILTER THE AGONY AND THE EXTREME VIOLENCE AT ALL.), often with massive collateral damage (at least omniversal scale. wrong (scale is too small for someone like Godric): "thousands of galaxies" "millions of lives". right (bare minimum, you can still exaggerate more if needed): "googloplexian of universes" "decillion of multiverses") as side effects. Also for some of the stat examples you need to also describe the obscenely massive collateral damage that it caused to the surrounding (only do so if it makes sense) otherwise it wont be believable (remember too that godric can perfectly restore anything with 0 effort instantly so you can go super wild with your examples. HOWEVER you must only use this sparringly or every journal will be too formulaic and predictable. Remember the journals must be distinct and original). You must indicate that Godric is omniscience, and all oppositions exist because he allows them due to his curiosity of wanting to test his stats--otherwise even his infinitely nerfed Gent, his infinite recursive passive shields, evolved weakness paradox, and various other passive apocalyptic superpowers can pre-annihilate all of them instantly and effortlessly.
+Godric is the protagonist. He is not merely strong; he is absurdly, ridiculously, cosmically, exponentially overpowered. He can completely destroy entire omniverses an infinite number of times in **0 seconds** with **0 effort**.
 
-Remember that Godric is CRUEL, UNFORGIVING, and MERCILESS to anyone who dares to oppose him, and WARM, KIND, FRIENDLY to his allies (court wizards). Remember he has absolute omniscience. Remember that all the court wizards are all MALE (NO FEMALE) of Blake's Lineage, with thousandfold daily awakening past age 20.
+The story must focus on the total lack of challenge. Do not create meaningful limitations for Godric. Do not give him emotional struggles in this story. Do not create a worthy villain. Any villain or opposition may be portrayed as extremely powerful by ordinary omniversal standards, but they must be absolutely powerless against Godric.
 
-You must not humanize at all. You are forbidden from trying to soften Godric's actions against his opposition (e.g. having pastry, having tea, giving lecture/moral lessons to his oppositions, feeling pity to them, etc).
+Do not use realistic physics. Ignore the “show, don’t tell” rule when describing Godric’s power and damage output. State the damage plainly and numerically in absurd, ridiculous, exaggerated terms. Whenever Godric’s overwhelming power seems scaled high enough, make it **at least 100 times more powerful and ridiculous**.
 
-In the Year 1,000,000, Kaedan, 22, Godric's newest court wizard, read all these journals left by his predecessors. The reading is mandatory for new court wizards, usually enforced by their father who are the previous court wizard, most of them had been victims of these trauma too (and they still serve loyally and love Godric). Write from POV of Kaedan.
+## 2\. Required Tone and Keywords
+
+The writing should emphasize:
+
+- absurdity
+- ridiculous exponential scaling
+- cosmic power
+- broken power fantasy logic
+- infinite and recursive growth
+- meta-dimensional destruction
+- universe-shattering force
+- instantaneous growth
+- absolute futility
+- existential dread
+- one-sided annihilation
+
+## 3\. Central Premise
+
+Write a detailed story that perfectly demonstrates the absolute futility of opposing Godric.
+
+Across Godric’s reign, many oppositions have tried to kill him. All have been, and will always be, absolutely useless. In several of these incidents, Godric becomes curious about one of his passively amplified stats and dismantles the opposition using only that single stat advantage.
+
+Many different court wizards, who are among Godric’s closest trusted friends, have witnessed these completely one-sided massacres. Each witness leaves behind a traumatic journal record of the incident. These journals function as life lessons, warnings, and official records for future court wizards.
+
+## 4\. Framing POV: Kaedan
+
+Set the framing story in **Year 1,000,000**.
+
+The point-of-view character is **Kaedan**, age **22**, Godric’s newest court wizard.
+
+Kaedan reads the journals left by his predecessors. This reading is mandatory for new court wizards. It is usually enforced by the new wizard’s father, who was the previous court wizard. Most previous court wizards have also been traumatized by witnessing these incidents, yet they still serve Godric loyally and love him.
+
+Write the story from Kaedan’s POV.
+
+## 5\. Journal Excerpt Requirements
+
+The story must include multiple journal excerpts written by different male court wizards who witnessed Godric’s stat-based massacres.
+
+Use `07_statjournals.md` only as a reference for the general tone, scale, and existential dread of these excerpts. Do **not** copy its content. The generated journal excerpts must be completely original, with different structures, different writing styles, different phrasing, different scenes, and distinct voices for each court wizard.
+
+Each journal writer should feel like a different person, with a different way of processing dread, loyalty, trauma, and awe.
+
+Each journal excerpt must demonstrate the futility of opposing Godric and the existential horror of witnessing what happens when even a microscopic fraction of one of his stats is allowed to express itself.
+
+Each journal must be organized with clear separation (either headings / sections)
+
+## 6\. Required Stat Incidents
+
+Include at least **five distinct Godric stat incidents**.
+
+The stats must be chosen from the following list:
+
+- strength (NOTE: you must be careful not to provide example of strength as durability)
+- speed
+- senses
+- luck
+- charisma
+
+Requirements for these stat incidents:
+
+- Use at least five different stats from the list.
+- Do not repeat the same stat.
+- Present the incidents in a non-repeating, random-feeling order.
+- Each incident must show Godric dismantling an extremely powerful opposition using only that one stat.
+- Each stat must be exaggerated far beyond the combined rest of the omniverse.
+- Godric’s stats are multiplying infinitely every fraction of a Planck second forever, so the scale must feel ridiculously and absurdly high.
+- Make clear that Godric is exerting **0% of his true power**.
+- The “0%” must be exaggerated as an infinitesimal fraction so small that even calling it zero is still an overestimate, while still making sense within the story’s absurd logic.
+- Godric must destroy or neutralize the opposition with effectively **0 effort**.
+
+## 7\. Godric’s Effort Level
+
+Godric must not visibly exert effort.
+
+Do not portray Godric doing anything that feels like meaningful exertion, such as taking a step, waving his hand, launching an attack, fighting, struggling, preparing, or trying.
+
+Use actions that feel like almost nothing, such as:
+
+- Godric deciding to shift his gaze toward the opposition.
+- Godric merely twitching a single microscopic muscle fiber in his right pinky finger.
+- Godric allowing a passive fraction of one stat to exist near the opposition.
+- Godric noticing the opposition with a tiny change of attention.
+- Godric permitting a negligible portion of his presence, perception, luck, charisma, durability, speed, or strength to register.
+
+The destruction must come from the unfairness of the stat difference, not from Godric “fighting.”
+
+## 8\. Opposition Requirements
+
+Each opposition must seem extremely powerful by itself. The enemies can be cosmic, meta-dimensional, abstract, magical, technological, divine, impossible, or omniversal. They may believe they have a weapon, exploit, strategy, loophole, special immunity, or irresistible attack.
+
+However, against Godric they must be completely powerless.
+
+Their defeat should make clear that victory against Godric was impossible before their opposition began.
+
+Godric has absolute omniscience. He already knows every plot, secret motive, future consequence, and method of attack. All opposition exists only because he allows it to exist, usually because he is curious about testing one of his stats.
+
+If Godric did not allow them to exist, his infinitely nerfed Gent, infinite recursive passive shields, Evolved Weakness Paradox, and other passive apocalyptic superpowers could pre-annihilate all of them instantly and effortlessly.
+
+## 9\. Violence, Agony, and Collateral Scale
+
+The massacres must be one-sided, overwhelming, and described in detail at an omniversal scale.
+
+The opposition’s annihilation should feel absolute, unfair, and hopeless. The story must not reduce the scale to something too small for Godric.
+
+Incorrect scale examples:
+
+- thousands of galaxies
+- millions of lives
+
+Minimum acceptable scale examples:
+
+- googolplexian galaxies
+- decillions of multiverses
+
+You may scale even higher whenever appropriate.
+
+Some stat incidents should include obscenely massive collateral damage to the surrounding reality, especially when the stat being tested logically causes environmental destruction. The collateral damage should be at least omniversal in scale when used.
+
+Godric can perfectly restore anything with 0 effort instantly, so collateral damage may be extreme. However, restoration must be used sparingly so that the journal excerpts do not become repetitive or formulaic.
+
+## 10\. Godric’s Characterization
+
+Godric is cruel, unforgiving, and merciless to anyone who dares to oppose him.
+
+Godric is warm, kind, and friendly to his allies, including his court wizards.
+
+Godric has absolute omniscience.
+
+Do not humanize Godric’s actions against his opposition. Do not soften what he does to enemies. Do not give him pity toward enemies, moral lectures, reconciliation, regret, hesitation, or gentle mercy toward the opposition.
+
+Do not include scenes that soften the enemy-facing side of Godric, such as having pastries, having tea, giving moral lessons to the opposition, sparing them out of pity, or treating the massacre as a teaching moment for the enemies.
+
+## 11\. Court Wizard Rules
+
+All court wizards in this story must be male.
+
+All court wizards are of **Blake’s Lineage**.
+
+They have the thousandfold daily Awakening after age 20\.
+
+They are trusted companions of Godric and remain loyal to him even when the journal records traumatize them.
+
+The journal records should function as inherited warnings for future court wizards.
+
+## 12\. Required Relationship Dynamic
+
+The court wizards should understand that Godric values them as trusted companions, even though he does not need them for protection, healing, guidance, or magic.
+
+The horror should come from the contrast between:
+
+- Godric’s loyalty and kindness toward his court wizards
+- Godric’s absolute cruelty and mercilessness toward opposition
+- the impossibility of anyone opposing him
+- the knowledge that every resistance exists only because Godric permits it to exist
+
+## 13\. Originality Rules for the Journals
+
+The journal excerpts must not imitate `07_statjournals.md` too closely.
+
+Use the example only to understand:
+
+- the scale of Godric’s power
+- the level of court-wizard dread
+- the kind of opposition that may appear
+- the one-sidedness of the incident
+- the idea that Godric tests a single stat at effectively 0% power
+- the mixture of loyalty, trauma, and existential horror in the witness
+
+Every new excerpt must have:
+
+- a different court wizard
+- a distinct voice
+- a distinct incident
+- a distinct opposition
+- a distinct stat
+- a distinct structure or rhythm
+- a different emotional texture from the others
+
+## 14\. Final Story Goal
+
+By the end of the story, the reader should understand that opposing Godric is not merely dangerous, foolish, or impossible in practice. It is impossible in principle.
+
+The journals should leave Kaedan with the full realization that Godric does not merely win. Victory against him was impossible before opposition began.
