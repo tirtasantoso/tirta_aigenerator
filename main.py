@@ -21,32 +21,33 @@ def main():
                     './prompts/references/thronegate/04_immune_system.md',
                     './prompts/references/thronegate/05_godric_intelligence.md',
                     './prompts/references/thronegate/06_godric_magic.md',
-                ]
-            },
-            {
-                'message': './prompts/prompt7b_redothis.md',
-                'files': [
                     './prompts/references/thronegate/07_statjournals.md',
                 ]
             },
+            # {
+            #     'message': './prompts/prompt7b_redothis.md',
+            #     'files': [
+            #         './prompts/references/thronegate/07_statjournals.md',
+            #     ]
+            # },
             {
                 'message': './prompts/prompt8_superpowers.md',
                 'files': []
             },
             # {
-            #     'message': './prompts/prompt9_boring_rebellion.md',
+            #     'message': './prompts/prompt20_godric_vs_earth.md',
             #     'files': []
             # },
             {
-                'message': './prompts/prompt20_godric_vs_earth.md',
+                'message': './prompts/prompt23_godric_universe.md',
                 'files': []
             },
             {
-                'message': './prompts/prompt21_godric_vs_fiction.md',
+                'message': './prompts/prompt24_stasis_origin.md',
                 'files': []
             },
             {
-                'message': './prompts/prompt22_wizards_life.md',
+                'message': './prompts/prompt25_future_godric.md',
                 'files': []
             },
         ],
@@ -64,32 +65,33 @@ def main():
                     './prompts/references/thronegate/04_immune_system.md',
                     './prompts/references/thronegate/05_godric_intelligence.md',
                     './prompts/references/thronegate/06_godric_magic.md',
-                ]
-            },
-            {
-                'message': './prompts/prompt7b_redothis.md',
-                'files': [
                     './prompts/references/thronegate/07_statjournals.md',
                 ]
             },
+            # {
+            #     'message': './prompts/prompt7b_redothis.md',
+            #     'files': [
+            #         './prompts/references/thronegate/07_statjournals.md',
+            #     ]
+            # },
             {
                 'message': './prompts/prompt8_superpowers.md',
                 'files': []
             },
+            # {
+            #     'message': './prompts/prompt20_godric_vs_earth.md',
+            #     'files': []
+            # },
             {
-                'message': './prompts/prompt9_boring_rebellion.md',
+                'message': './prompts/prompt23_godric_universe.md',
                 'files': []
             },
             {
-                'message': './prompts/prompt20_godric_vs_earth.md',
+                'message': './prompts/prompt24_stasis_origin.md',
                 'files': []
             },
             {
-                'message': './prompts/prompt21_godric_vs_fiction.md',
-                'files': []
-            },
-            {
-                'message': './prompts/prompt22_wizards_life.md',
+                'message': './prompts/prompt25_future_godric.md',
                 'files': []
             },
         ],
