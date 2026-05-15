@@ -38,6 +38,9 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 ## **The Omniverse**
 
+* There is only 1 omniverse. The cosmological hierarchy is: Planck scale → atoms → particles → matter → planets → solar systems → galaxies → galaxy clusters → universes → multiverses → THE omniverse (singular, total, everything). The omniverse is not a countable unit. It is the absolute container of all existence. There is one. Saying "decillions of omniverses" or "a googolplex of omniverses" is a structural contradiction — like saying "several totalities."
+  * The entire omniverse (meaning all of existence, used as the ceiling, not a repeating unit) Trans-dimensional, meta-dimensional, or conceptual layers within the omniverse
+  * And when Godric's power is described as capable of destroying "the entire omniverse," that means everything — the singular totality — which is actually a more horrifying statement than "decillions of omniverses," because it means there is no outside. There is no remainder.
 * The omniverse contains countless multiverses (which contains countless universes), civilizations, cosmic hierarchies, gods, machines, magical empires, abstract entities, fictional archetypes, impossible weapons, and resistance coalitions.
 * Every power system can exist somewhere in the omniverse.
 * None can meaningfully threaten Godric.
