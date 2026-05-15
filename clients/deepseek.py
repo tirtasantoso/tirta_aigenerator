@@ -195,10 +195,12 @@ def generate_deepseek_file_list(
         prompt: dict = {'message': './prompts/prompt1.md', 'files': []},
         create_doc = False,
     ):
-        output_json_file = create_incremental_file(f"./outputs/{Path(prompt['message']).stem}_filelist.json")
-        json_content = []
+        output_file = create_incremental_file(f"./outputs/{Path(prompt['message']).stem}_filelist.md")
+        file_content = 'Treat the following list of files as additional contexts for ALL future prompts in this chat. These contexts are supplementary and should be used to enhance the responses. The file "00_MASTER_LORE.md" is to be treated as the master reference lore, and the other files as examples of stories that you can use as additional references.\n\n'
         for file in prompt['files']:
-            json_content.append({"file": Path(file).name, "content": open_prompt_file(file)})
-        with open(output_json_file, "a") as f:
-            f.write(json.dumps(json_content, indent=4))
+            # file_content.append({"file": Path(file).name, "content": open_prompt_file(file)})
+            file_content += f'<file name="{Path(file).name}">\n{open_prompt_file(file)}\n</file>\n'
+        with open(output_file, "a") as f:
+            # f.write(json.dumps(file_content, indent=4))
+            f.write(file_content)
             f.close()
