@@ -1,3 +1,5 @@
+# Godric Stat Experiment
+
 Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference and `07_statjournals.md` as an example of the wizard-journal excerpt style, scale, and dread.
 
 ## 1\. Core Story Directive
@@ -10,7 +12,9 @@ Godric is the protagonist. He is not merely strong; he is absurdly, ridiculously
 
 The story must focus on the total lack of challenge. Do not create meaningful limitations for Godric. Do not give him emotional struggles in this story. Do not create a worthy villain. Any villain or opposition may be portrayed as extremely powerful by ordinary omniversal standards, but they must be absolutely powerless against Godric.
 
-Do not use realistic physics. Ignore the “show, don’t tell” rule when describing Godric’s power and damage output. State the damage plainly and numerically in absurd, ridiculous, exaggerated terms. Whenever Godric’s overwhelming power seems scaled high enough, make it **at least 100 times more powerful and ridiculous**.
+Do not use realistic physics. Ignore the “show, don’t tell” rule when describing Godric’s power and damage output. State the damage plainly in absurd, ridiculous, exaggerated terms. Whenever Godric’s overwhelming power seems scaled high enough, make it **at least 100 times more powerful and ridiculous**.
+
+Avoid philosophical, abstract concepts & powers, or metaphysical narrative. They will just obscure the narrative and make the intended impact less.
 
 ## 2\. Required Tone and Keywords
 
@@ -79,7 +83,7 @@ Requirements for these stat incidents:
 - Each stat must be exaggerated far beyond the combined rest of the omniverse.
 - Godric’s stats are multiplying infinitely every fraction of a Planck second forever, so the scale must feel ridiculously and absurdly high.
 - Make clear that Godric is exerting **0% of his true power**.
-- The “0%” must be exaggerated as an infinitesimal fraction so small that even calling it zero is still an overestimate, while still making sense within the story’s absurd logic.
+- The “0%” must be exaggerated as an infinitesimal fraction so small that calling it zero is the only correct way.
 - Godric must destroy or neutralize the opposition with effectively **0 effort**.
 
 ## 7\. Godric’s Effort Level
