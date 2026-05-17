@@ -60,7 +60,7 @@ Each journal writer should feel like a different person, with a different way of
 
 Each journal excerpt must demonstrate the futility of opposing Godric and the existential horror of witnessing what happens when even a microscopic fraction of one of his stats is allowed to express itself.
 
-Each journal must be organized with clear separation (either headings / sections)
+Each journal must be organized with clear separation (either headings / sections), indicating the year/name of the writer/and the stat that is being used–you might use number to denote the year if necessary.
 
 ## 6\. Required Stat Incidents
 
@@ -81,10 +81,13 @@ Requirements for these stat incidents:
 - Present the incidents in a non-repeating, random-feeling order.
 - Each incident must show Godric dismantling an extremely powerful opposition using only that one stat.
 - Each stat must be exaggerated far beyond the combined rest of the omniverse.
-- Godric’s stats are multiplying infinitely every fraction of a Planck second forever, so the scale must feel ridiculously and absurdly high.
-- Make clear that Godric is exerting **0% of his true power**.
-- The “0%” must be exaggerated as an infinitesimal fraction so small that calling it zero is the only correct way.
-- Godric must destroy or neutralize the opposition with effectively **0 effort**.
+- Godric’s stats are multiplying infinitely every infinitesimal fraction of Planck second forever, so the scale must feel ridiculously and absurdly high.
+- Remember, the writer is Godric’s Court Wizard who has a daily thousandfold multiplier to their power, and they are utterly devastated and terrified after witnessing the scale of Godric's power–you must make this believable.
+- Make clear that Godric is exerting **0% of his true power**. The amount of effort that Godric exerts must be exaggerated as an infinitesimal fraction so small that calling it zero is the only accurate way.
+- Even with the “0% of his true power”, Godric must destroy or neutralize the opposition with **effectively 0 effort**.
+- You must keep in mind that Godric is omniscience–he can’t be surprised.
+- If your chosen year is greater than Year 2,000, you must remember that by that time, Godric has already obtained all possible absolute immunity and mastery from Weakness Paradox, so there is absolutely no way Godric can even the slightest tickle/breeze/heat/etc. from the opposition’s most powerful attacks, and in fact Godric can perform the same attack with infinitely more potent mastery compared to them. You must make sure that you portray the absolute extreme one-sidedness of the fight.
+- Avoid over-explaining and lore-dumping the mechanics of Godric’s powers or opposition's power.
 
 ## 7\. Godric’s Effort Level
 
@@ -97,6 +100,7 @@ Use actions that feel like almost nothing, such as:
 - Godric deciding to shift his gaze toward the opposition.
 - Godric merely twitching a single microscopic muscle fiber in his right pinky finger.
 - Godric noticing the opposition with a tiny change of attention.
+- Other similar actions (you can go creative with this).
 
 The destruction must come from the unfairness of the stat difference, not from Godric “fighting.”
 
