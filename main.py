@@ -35,10 +35,6 @@ def main():
             'message': './prompts/prompt8_superpowers.md',
             'files': []
         },
-        # {
-        #     'message': './prompts/prompt20_godric_vs_earth.md',
-        #     'files': []
-        # },
         {
             'message': './prompts/prompt23_godric_universe.md',
             'files': []
@@ -49,6 +45,14 @@ def main():
         },
         {
             'message': './prompts/prompt25_future_godric.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt20_godric_vs_earth.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt21_godric_vs_fiction.md',
             'files': []
         },
     ]
