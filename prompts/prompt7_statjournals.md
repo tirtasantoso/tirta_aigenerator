@@ -1,6 +1,6 @@
 # Godric Stat Experiment
 
-Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference and `07_statjournals.md` as an example of the wizard-journal excerpt style, scale, and dread.
+Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference.
 
 ## 1\. Core Story Directive
 
@@ -68,11 +68,11 @@ Include at least **five distinct Godric stat incidents**.
 
 The stats must be chosen from the following list:
 
-- strength (NOTE: you must be careful not to provide example of strength as durability)
+- strength (NOTE: you must be careful not to provide examples of strength as durability. Collateral scale must be at least omniversal)
 - speed
 - senses
 - luck
-- charisma
+- wisdom
 
 Requirements for these stat incidents:
 
@@ -95,12 +95,7 @@ Godric must not visibly exert effort.
 
 Do not portray Godric doing anything that feels like meaningful exertion, such as taking a step, waving his hand, launching an attack, fighting, struggling, preparing, or trying. Avoid abstract portrayal too like "Godric allows them to perceive his infinitesimal power" "Godric allowing a microscopic fraction of something (a stat, a passive field, an aura) to exist near them".
 
-Use actions that feel like almost nothing, such as:
-
-- Godric deciding to shift his gaze toward the opposition.
-- Godric merely twitching a single microscopic muscle fiber in his right pinky finger.
-- Godric noticing the opposition with a tiny change of attention.
-- Other similar actions (you can go creative with this).
+Use actions that feel like almost nothing.
 
 The destruction must come from the unfairness of the stat difference, not from Godric “fighting.”
 

@@ -8,7 +8,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * It was ruled by Godric when he was still mortal.
 * Olympus was noble, intimate, and politically vulnerable compared with the later galactic civilization of Thronegate.
 * Its fall becomes the foundational trauma of the entire saga.
-* The Fall of Olympus is genuine tragedy. Far-future Godric does **not** cause, manipulate, orchestrate, approve, or engineer the fall of Olympus, Reina’s death, Isabel’s death, Hebe’s death, Thorin’s death, or any part of Olympus’s destruction.
+* The Fall of Olympus is a genuine tragedy. Far-future Godric does **not** cause, manipulate, orchestrate, approve, or engineer the fall of Olympus, Reina’s death, Isabel’s death, Hebe’s death, Thorin’s death, or any part of Olympus’s destruction.
 * Olympus is forgotten by history 10,000 years after its fall.
 * By the time Blake discovers Godric, nearly no one remembers Olympus, its royal family, or Thorin’s bloodline.
 
@@ -160,7 +160,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 * Also referred to as “Godric Prime” by the previous Godric. He is the undisputed king, the apex god predator of the entire existence.
 * He is the ultimate being in the entire existence up to this point. The entire omniverse has been completely under his absolute rule for countless googolplexian years, and will still be his forever
-* He is so powerful that all iterations of previous Godrics and all the omniverse–even when combined, from all timelines, unleashing all their full power–cannot even make him feel the slightest tickle.
+* He is so powerful that all iterations of previous Godrics and all the omniverse–even when combined, from all timelines, unleashing all their full power–cannot even make him (or even his weakest sentient passive aura, nerfed infinitely) feel the slightest tickle.
 * The entire omniverse’s purpose is to ensure he is never ever inconvenienced, because his slightest inconvenience or displeasure will have fatal permanent consequences to the omniverse–one that only he can restore.
 * He is the true origin of the stasis event.
 
@@ -229,7 +229,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * Some enhanced superpower effects make Godric permanently even more obscenely stronger.
 * Even the base effect of a superpower, when nerfed to 0% of its power, is enough to destroy the entire singular omniverse infinite times over.
 * Superpower displays should feel even more absurdly destructive than Godric’s amplified stat.
-* Godric often tries to test his superpower, and he usually only tests one superpower in each test for fun. However, this is not a limitation–Godric can use all superpowers he has at once with 0 effort and 0 cost, he just prefers not to.
+* Godric often tries to test his superpower, and he usually only tests one superpower in each test for fun. However, this is not a limitation–Godric can use all superpowers he has together with 0 effort and 0 cost, he just prefers not to (not to mention it would be severely overkill).
 
 ## **Absolute Concealment (Year \-10,000 onwards)**
 
@@ -257,14 +257,14 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * Godric can deactivate or exclude these shields for theatre, curiosity, or demonstration, as in the Year 25,000 immune-system incident.
 * If Godric did not deliberately allow certain opposition to exist, these shields alone could pre-annihilate them instantly and effortlessly.
 * In the far future, the passive shields have evolved countless times. The older version already made resistance impossible; the far-future version makes the older version look almost primitive by comparison.
-* Far-future passive shields can convert attempted danger into self-erasing failure, force hostile realities to collapse around their own intention, and make the basic logistics of opposition impossible before a hostile actor notices the impulse forming.
+* Far-future passive shields have devastatingly powerful effects, the weakest ones include ability to convert attempted danger into self-erasing failure, force hostile realities to collapse around their own intention, and make the basic logistics of opposition impossible before a hostile actor notices the impulse forming.
 * Even these far-future shields remain only one redundant layer among many. Godric does not need them, but they exist anyway.
 
 ## **Weakness Paradox (Year \-10,000 onwards)**
 
 * For every external, oppositional, combat, magical, conceptual, strategic, biological, physical, temporal, and metaphysical purpose, Godric has no exploitable weaknesses.
 * This is an absolute truth of his existence from the perspective of every enemy and every system in creation.
-* The only exception is the sealed pre-Stasis mortal past, which exists solely because far-future Godric made it irrevocable. This is not exploitable by anyone and does not give opposition any path to victory.
+* The only exception is the sealed pre-Stasis mortal past, which exists solely because the far-future Godric made it irrevocable. This is not exploitable by anyone and does not give opposition any path to victory.
 * The paradox activates when any being, anywhere, even briefly thinks Godric has a weakness.
 * It activates before:
   * the thought fully forms,
@@ -296,7 +296,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
   * and forces creation itself to overcompensate for its inadequacy.
 * From Year 2000 onwards, Godric’s amplification is now beyond layered infinities and recursively increasing forever.
 * In the far future, the Evolved Weakness Paradox itself has evolved countless times.
-* By then, the already impossible Year-2000 version feels pathetically weak in comparison. It no longer merely grants immunity and amplification; it can make creation overcorrect with violent redundancy against the mere possibility of an exploit. Also, in the far future, the Weakness Paradox no longer requires trigger–it is passively triggered by any sentient being who thinks about anything in the past, present, future in all timelines, thus making the “Weakness Paradox” naming misleading since it is no longer merely triggered when someone thinks of Godric weaknesses.
+* By then, the already impossible Year-2000 version feels pathetically weak in comparison. It no longer merely grants immunity and amplification; it can make creation overcorrect with violent redundancy against the mere possibility of an exploit. Also, in the far future, the Weakness Paradox no longer requires trigger–it is passively triggered by any sentient being who thinks about anything (Not just Godric’s weakness. Literally anything, even non-Godric related) in the past, present, future in all timelines, thus making the “Weakness Paradox” naming misleading since it is no longer merely triggered when someone thinks of Godric weaknesses.
 * No one can use the Stasis-origin limitation as a weakness. The paradox does not undo far-future Godric’s will, because far-future Godric is the source of the sealed condition and is Godric himself at a later, greater stage.
 
 ---
