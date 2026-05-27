@@ -40,8 +40,9 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 * There is only 1 omniverse. The cosmological hierarchy is: Planck scale → atoms → particles → matter → planets → solar systems → galaxies → galaxy clusters → universes → multiverses → THE omniverse (singular, total, everything). The omniverse is not a countable unit. It is the absolute container of all existence. There is one. Saying "decillions of omniverses" or "a googolplex of omniverses" is a structural contradiction — like saying "several totalities."
   * The entire omniverse (meaning all of existence, used as the ceiling, not a repeating unit) Trans-dimensional, meta-dimensional, or conceptual layers within the omniverse
-  * And when Godric's power is described as capable of destroying "the entire omniverse," that means everything — the singular totality — which is actually a more horrifying statement than "decillions of omniverses," because it means there is no outside. There is no remainder.
+  * And when Godric's power is described as capable of destroying "the entire omniverse," that means everything, which is actually a more horrifying statement than "decillions of omniverses," because it means there is no outside. There is no remainder.
 * The omniverse contains countless multiverses (which contains countless universes), civilizations, cosmic hierarchies, gods, machines, magical empires, abstract entities, fictional archetypes, impossible weapons, and resistance coalitions.
+* Avoid using the term "singular omniverse". It is understood that there is only one omniverse. Use "the entire omniverse" instead.
 * Every power system can exist somewhere in the omniverse.
 * None can meaningfully threaten Godric.
 * Resistance against Godric only exists when he allows it to exist.
@@ -305,7 +306,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 ## **Gent’s Nature**
 
-* Gent is Godric’s sentient passive defense aura.
+* Gent is Godric’s weakest and most primitive sentient passive defense aura.
 * Gent only starts to manifest from Year 5000 onwards. You must not include examples that involve Gent before Year 5000\.
 * It is distinct from:
   * Godric’s absolute concealment,
@@ -467,6 +468,7 @@ When an injury is detected or falsely perceived:
 
 * Court wizards of Blake’s lineage maintain inherited journals that record incidents involving Godric’s stat tests, superpower tests, passive systems, immune system, magic, intelligence, and other demonstrations.
 * These journals function as warnings, official records, life lessons, and psychological scars for future court wizards.
+* Godric did NOT ask his court wizards to write these journals, yet all the court wizards since Blake found writing these journals necessary to keep themselves sane after experiencing absolute existential dread from witnessing the scale of Godric's power. Godric is genuinely confused since he always only uses 0% of his power, which he considers to be very held back, and thinks his court wizards are "overreacting".
 * Many previous court wizards are traumatized by what they witness, yet they continue to serve Godric loyally and love him.
 * New court wizards are required to read these journals. The requirement is often enforced by the new wizard’s father, who was usually the previous court wizard.
 * All court wizards featured in these journal frameworks must be male and of Blake’s lineage.
