@@ -1,6 +1,6 @@
 # Godric Stat Experiment
 
-Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference.
+Use the provided files as foundational lore, tone, scale, and continuity for the story in this chat. Treat `00_MASTER_LORE.md` as the master reference and `07_statjournals.md` as an example of the wizard-journal excerpt style, scale, and dread.
 
 ## 1\. Core Story Directive
 
@@ -46,7 +46,7 @@ Set the framing story in **Year 1,000,000**.
 
 The point-of-view character is **Kaedan**, age **22**, Godric’s newest court wizard.
 
-Kaedan reads the journals left by his predecessors. This reading is mandatory for new court wizards. It is usually enforced by the new wizard’s father, who was the previous court wizard. Most previous court wizards have also been traumatized by witnessing these incidents, yet they still serve Godric loyally and love him.
+Kaedan reads the journals left by his predecessors. This reading is mandatory for new court wizards. It is usually enforced by the new wizard’s father, who was the previous court wizard. Most previous court wizards have also been traumatized by witnessing these incidents, yet they still serve Godric loyally and love him. Godric did NOT ask his court wizards to write these journals, yet all the court wizards since Blake found writing these journals necessary to keep themselves sane after experiencing absolute existential dread due to witnessing the scale of Godric's power. Godric is genuinely confused since he always only uses 0% of his power, which he considers to be very held back, and thinks his court wizards are "overreacting".
 
 Write the story from Kaedan’s POV.
 
@@ -60,19 +60,34 @@ Each journal writer should feel like a different person, with a different way of
 
 Each journal excerpt must demonstrate the futility of opposing Godric and the existential horror of witnessing what happens when even a microscopic fraction of one of his stats is allowed to express itself.
 
-Each journal must be organized with clear separation (either headings / sections), indicating the year/name of the writer/and the stat that is being used–you might use number to denote the year if necessary.
+Each journal must be organized with clear bolded separation (either headings / sections), indicating the year/name of the writer/and the stat that is being used–you might use number to denote the year if necessary.
 
 ## 6\. Required Stat Incidents
 
 Include at least **five distinct Godric stat incidents**.
 
-The stats must be chosen from the following list:
+Two stats must be included, and they must show how devastatingly powerful the scale in which Godric’s stats are, with collaterals scaling at least omniversal (the entire reality, multiverses, universes, timelines, dimensions, etc. must be completely destroyed in the most agonizing way possible, even with Godric exerting effectively 0% of his stats with 0% of his effort):
 
-- strength (NOTE: you must be careful not to provide examples of strength as durability. Collateral scale must be at least omniversal)
+- strength (NOTE: you must be careful not to provide examples of strength as durability)
 - speed
-- senses
-- luck
-- wisdom
+
+The remaining three stats are chosen randomly:
+
+- endurance,
+- speed,
+- senses,
+- magic,
+- charisma,
+- luck,
+- wisdom,
+- intelligence,
+- durability,
+- mana,
+- hit points,
+- magical offense,
+- magical defense,
+- perception,
+- and all other measurable or immeasurable traits.
 
 Requirements for these stat incidents:
 
@@ -93,7 +108,7 @@ Requirements for these stat incidents:
 
 Godric must not visibly exert effort.
 
-Do not portray Godric doing anything that feels like meaningful exertion, such as taking a step, waving his hand, launching an attack, fighting, struggling, preparing, or trying. Avoid abstract portrayal too like "Godric allows them to perceive his infinitesimal power" "Godric allowing a microscopic fraction of something (a stat, a passive field, an aura) to exist near them".
+Do not portray Godric doing anything that feels like meaningful exertion, such as taking a step, waving his hand, launching an attack, sneezing, fighting, struggling, preparing, or trying. Avoid abstract portrayal too like "Godric allows them to perceive his infinitesimal power" "Godric allowing a microscopic fraction of something (a stat, a passive field, an aura) to exist near them".
 
 Use actions that feel like almost nothing.
 
