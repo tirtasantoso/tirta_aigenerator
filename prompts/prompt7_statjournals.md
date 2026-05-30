@@ -97,7 +97,7 @@ Requirements for these stat incidents:
 - Each incident must show Godric dismantling an extremely powerful opposition using only that one stat.
 - Each stat must be exaggerated far beyond the combined rest of the omniverse.
 - Godric’s stats are multiplying infinitely every infinitesimal fraction of Planck second forever, so the scale must feel ridiculously and absurdly high.
-- Remember, the writer is Godric’s Court Wizard who has a daily thousandfold multiplier to their power, and they are utterly devastated and terrified after witnessing the scale of Godric's power–you must make this believable.
+- Remember, the writer is Godric’s Court Wizard who has a daily thousandfold multiplier to their power (this thousandfold multiplier is granted by Godric to all Blake’s bloodlines in Year 0), and they are utterly devastated and terrified after witnessing the scale of Godric's power–you must make this believable.
 - Make clear that Godric is exerting **0% of his true power**. The amount of effort that Godric exerts must be exaggerated as an infinitesimal fraction so small that calling it zero is the only accurate way.
 - Even with the “0% of his true power”, Godric must destroy or neutralize the opposition with **effectively 0 effort**.
 - You must keep in mind that Godric is omniscience–he can’t be surprised.
