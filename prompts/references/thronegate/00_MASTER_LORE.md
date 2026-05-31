@@ -38,7 +38,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 ## **The Omniverse**
 
-* There is only 1 omniverse. The cosmological hierarchy is: Planck scale → atoms → particles → matter → planets → solar systems → galaxies → galaxy clusters → universes → multiverses → THE omniverse (singular, total, everything). The omniverse is not a countable unit. It is the absolute container of all existence. There is one. Saying "decillions of omniverses" or "a googolplex of omniverses" is a structural contradiction — like saying "several totalities."
+* There is only 1 omniverse. The cosmological hierarchy is: Planck scale → atoms → particles → matter → planets → solar systems → galaxies → galaxy clusters → universes → multiverses → THE omniverse (singular, total, everything). The omniverse is not a countable unit. It is the absolute container of all existence. There is one. Saying "decillions of omniverses" or "a googolplex of omniverses" is a structural contradiction - like saying "several totalities."
   * The entire omniverse (meaning all of existence, used as the ceiling, not a repeating unit) Trans-dimensional, meta-dimensional, or conceptual layers within the omniverse
   * And when Godric's power is described as capable of destroying "the entire omniverse," that means everything, which is actually a more horrifying statement than "decillions of omniverses," because it means there is no outside. There is no remainder.
 * The omniverse contains countless multiverses (which contains countless universes), civilizations, cosmic hierarchies, gods, machines, magical empires, abstract entities, fictional archetypes, impossible weapons, and resistance coalitions.
@@ -228,7 +228,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * The rate becomes far beyond ordinary infinity, incalculable mathematics, and any stable scale.
 * Because the Evolved Weakness Paradox triggers repeatedly, every already devastating superpower evolves to acquire multiple increasingly unfair enhanced effects.
 * Some enhanced superpower effects make Godric permanently even more obscenely stronger.
-* Even the base effect of a superpower, when nerfed to 0% of its power, is enough to destroy the entire singular omniverse infinite times over.
+* Even the base effect of a superpower, when nerfed to 0% of its power, is enough to destroy the entire omniverse infinite times over.
 * Superpower displays should feel even more absurdly destructive than Godric’s amplified stat.
 * Godric often tries to test his superpower, and he usually only tests one superpower in each test for fun. However, this is not a limitation–Godric can use all superpowers he has together with 0 effort and 0 cost, he just prefers not to (not to mention it would be severely overkill).
 
@@ -790,7 +790,7 @@ These directives are part of the master lore and should be used when generating 
 
 * Godric is the protagonist.
 * Godric is not merely strong. He is absurdly, ridiculously, cosmically, exponentially overpowered.
-* He can completely destroy the entire singular omniverse infinite times in 0 seconds with 0 effort.
+* He can completely destroy the entire omniverse infinite times in 0 seconds with 0 effort.
 * Stories focused on Godric’s power should emphasize the total lack of challenge.
 * Do not create meaningful limitations for Godric except the non-exploitable pre-Stasis limitation created by his own far-future self.
 * Do not give Godric emotional struggles in power-demonstration stories.
