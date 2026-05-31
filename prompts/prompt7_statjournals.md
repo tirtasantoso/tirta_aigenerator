@@ -101,7 +101,7 @@ Requirements for these stat incidents:
 - Make clear that Godric is exerting **0% of his true power**. The amount of effort that Godric exerts must be exaggerated as an infinitesimal fraction so small that calling it zero is the only accurate way.
 - Even with the “0% of his true power”, Godric must destroy or neutralize the opposition with **effectively 0 effort**.
 - You must keep in mind that Godric is omniscience–he can’t be surprised.
-- If your chosen year is greater than Year 2,000, you must remember that by that time, Godric has already obtained all possible absolute immunity and mastery from Weakness Paradox, so there is absolutely no way Godric can even the slightest tickle/breeze/heat/etc. from the opposition’s most powerful attacks, and in fact Godric can perform the same attack with infinitely more potent mastery compared to them. You must make sure that you portray the absolute extreme one-sidedness of the fight.
+- If your chosen year is greater than Year 2,000, you must remember that by that time, Godric has already obtained all possible absolute immunity and mastery from Weakness Paradox, so there is absolutely no way Godric can even the slightest tickle/breeze/heat/etc. from the opposition’s most powerful attacks, and in fact Godric can perform the same attack with infinitely more potent mastery compared to them. The absolute immunity and mastery granted by the Weakness Paradox is inherently passive to Godric, and he cannot suppress them. He can only decide whether the opposition can still be allowed use their “attack” that they falsely thought can exploit his weakness. You must make sure that you portray the absolute extreme one-sidedness of the fight.
 - Avoid over-explaining and lore-dumping the mechanics of Godric’s powers or opposition's power.
 
 ## 7\. Godric’s Effort Level
@@ -110,7 +110,7 @@ Godric must not visibly exert effort.
 
 Do not portray Godric doing anything that feels like meaningful exertion, such as taking a step, waving his hand, launching an attack, sneezing, fighting, struggling, preparing, or trying. Avoid abstract portrayal too like "Godric allows them to perceive his infinitesimal power" "Godric allowing a microscopic fraction of something (a stat, a passive field, an aura) to exist near them".
 
-Use actions that feel like almost nothing.
+Use actions that feel like almost nothing:
 
 The destruction must come from the unfairness of the stat difference, not from Godric “fighting.”
 
