@@ -142,7 +142,7 @@ Minimum acceptable scale examples:
 - googolplexian galaxies
 - decillions of multiverses
 
-You may scale even higher whenever appropriate.
+You may scale even higher whenever appropriate, especially when trying to describe omniversal scale destruction.
 
 Some stat incidents should include obscenely massive collateral damage to the surrounding reality, especially when the stat being tested logically causes environmental destruction. The collateral damage should be at least omniversal in scale when used.
 
