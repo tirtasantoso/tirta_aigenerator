@@ -39,6 +39,10 @@ def generate_deepseek_content(
             'reasoning_effort': reasoning_effort, # either "low", "medium", or "high". The higher the reasoning effort, the more time the model will spend on thinking and reasoning before giving an answer. Default is "medium".'
             'extra_body': {"thinking": {"type": "enabled"}},
         })
+    else:
+        chat_settings.update({
+            'extra_body': {"thinking": {"type": "disabled"}},
+        })
 
 
     # chat round 1
@@ -95,7 +99,7 @@ def generate_deepseek_content(
         )
 
         for chunk in response:
-            if chunk.choices[0].delta.reasoning_content:
+            if hasattr(chunk.choices[0].delta, 'reasoning_content') and chunk.choices[0].delta.reasoning_content:
                 reasoning_assistant += chunk.choices[0].delta.reasoning_content
                 f_reasoning.write(chunk.choices[0].delta.reasoning_content)
                 f_reasoning.flush()
@@ -156,7 +160,7 @@ def generate_deepseek_content(
                 )
 
                 for chunk in response:
-                    if chunk.choices[0].delta.reasoning_content:
+                    if hasattr(chunk.choices[0].delta, 'reasoning_content') and chunk.choices[0].delta.reasoning_content:
                         reasoning_assistant += chunk.choices[0].delta.reasoning_content
                         f_reasoning.write(chunk.choices[0].delta.reasoning_content)
                         f_reasoning.flush()

@@ -35,28 +35,28 @@ def main():
             'message': './prompts/prompt8_superpowers.md',
             'files': []
         },
+        {
+            'message': './prompts/prompt9_pleasurable_stats.md',
+            'files': []
+        },
         # {
-        #     'message': './prompts/prompt23_godric_universe.md',
+        #     'message': './prompts/prompt10_godric_universe.md',
         #     'files': []
         # },
         {
-            'message': './prompts/prompt24_stasis_origin.md',
+            'message': './prompts/prompt10_stasis_origin.md',
             'files': []
         },
         {
-            'message': './prompts/prompt25_future_godric.md',
+            'message': './prompts/prompt11_future_godric.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt12_godric_skills.md',
             'files': []
         },
         {
             'message': './prompts/prompt20_godric_vs_earth.md',
-            'files': []
-        },
-        {
-            'message': './prompts/prompt26_godric_skills.md',
-            'files': []
-        },
-        {
-            'message': './prompts/prompt27_pleasurable_stats.md',
             'files': []
         },
         {
@@ -68,16 +68,17 @@ def main():
     generate_deepseek_content(
         system_persona=system_persona,
         prompts=prompts_list,
+        reasoning_effort='high',
     )
 
     # generate_deepseek_file_list(
     #     prompt=prompts_list[0],
     # )
 
-    generate_gemini_content(
-        system_persona=system_persona,
-        prompts=prompts_list,
-    )
+    # generate_gemini_content(
+    #     system_persona=system_persona,
+    #     prompts=prompts_list,
+    # )
 
     # generate_gemini_image(
     #     prompts=['./prompts/image_prompt2.md',],

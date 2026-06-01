@@ -128,7 +128,7 @@ If Godric did not allow them to exist, his infinitely nerfed Gent, infinite recu
 
 ## 9\. Violence, Agony, and Collateral Scale
 
-The massacres must be one-sided, overwhelming, and described in detail at an omniversal scale.
+The massacres must be one-sided, overwhelming, and described in detail at an omniversal scale. You must depict extreme violence when appropriate, and gore when appropriate.
 
 The opposition’s annihilation should feel absolute, unfair, and hopeless. The story must not reduce the scale to something too small for Godric.
 
