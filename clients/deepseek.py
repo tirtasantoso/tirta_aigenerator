@@ -11,6 +11,7 @@ def generate_deepseek_content(
         system_persona: str = './prompts/references/_system_role.md',
         prompts: list[dict] = [{'message': './prompts/prompt1.md', 'files': []}],
         reasoning_effort: str|bool = 'max',
+        with_json_output = False,
     ):
 
     print(f'Deepseek content generation starts now...')
@@ -184,13 +185,11 @@ def generate_deepseek_content(
             ]
 
 
-    # from pprint import pprint
-    # pprint(f'------------chat_settings------------')
-    # pprint(chat_settings)
-    output_json_file = create_incremental_file(f"./outputs/{output_file_name}_reasoning.json")
-    with open(output_json_file, "a") as f:
-        f.write(json.dumps(chat_settings, indent=4))
-        f.close()
+    if with_json_output:
+        output_json_file = create_incremental_file(f"./outputs/{output_file_name}_reasoning.json")
+        with open(output_json_file, "a") as f:
+            f.write(json.dumps(chat_settings, indent=4))
+            f.close()
 
     print(f'Deepseek content generation is done: {output_file}, {output_reasoning_file}')
 
