@@ -743,7 +743,7 @@ When an injury is detected or falsely perceived:
 
 * Godric always appears physically 45 after the Stasis Event.
 * Godric never needs sleep, food, water, or air.
-* Godric has absolute omniscience after awakening.
+* Godric has absolute omniscience after awakening. He knows all oppositions even before they exist, all thoughts, concepts, skils, immunities, deceits, everything with no exception. Godric can not be surprised.
 * Since the instant he gained omniscience, Godric has known the true origin of the Stasis Event.
 * The Stasis Event is ultimately created by far-future Godric, not by Thorin’s spell alone.
 * Never mentions that Godric is withholding his weakness paradox, superpower genesis, immune system or amplification rates when you are trying to make him seemingly nerf himself. These (weakness paradox, superpower genesis, immune system or amplification rates) are passives that came from the Stasis Event. The Stasis Event is irrevocable, absolute, and impossible for current Godric to undo because its creator is far-future Godric from a far later, incomprehensibly superior stage of his own existence.
@@ -779,6 +779,9 @@ When an injury is detected or falsely perceived:
   * Godric does not merely win.
   * Victory against him was impossible before opposition began.
 * You must never imply or say that the horror is because Godric is warm, kind, friendly or something similar. You must avoid repeatedly saying that Godric is warm, kind, or friendly explicitly (SHOW IT THROUGH ACTION OR THINKING INSTEAD).
+* Do not portray Godric in mundane overly cliched scenes such as eating pastries, reading agricultural/grain/or similar-mundane reports, having tea, gentle teaching moments, or spare-the-enemy mercy to humanize his treatment of opposition.
+* You must NEVER make Godric lecture, talk to extensively, or sparing opposition. Godric is merciless, cruel, and ruthless to his opposition: all who oppose Godric are permanently rid of passively by his sentient passive aura, passive shields, or immune system. The only exception any opposition could exist is because Godric believes in mortal resilience and freewill, or when Godric is curious to test his stats/immune system/superpowers, or just curious about something else.
+  * YOU ARE STRICTLY FORBIDDEN FROM SAYING THIS: "Godric does not kill his opposition" "Godric spares his opposition as an example" "Godric lets the opposition go home" "Godric instantly kills the opposition without them feeling any pain".
 
 ---
 
