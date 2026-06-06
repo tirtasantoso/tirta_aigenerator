@@ -70,6 +70,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
   * 45 years old.
 * Physical appearance:
   * Stunningly ruggedly handsome,
+  * tall,
   * masculine,
   * highly muscular,
   * short salt-and-pepper hair,
