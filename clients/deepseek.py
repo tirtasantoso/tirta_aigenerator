@@ -68,6 +68,8 @@ def generate_deepseek_content(
     content_files = [
         {"type": "text", "text": f'<file name="{Path(file).name}">{open_prompt_file(file)}</file>'} for file in prompts[0]['files'] if 'files' in prompts[0] and prompts[0]['files']
     ]
+    if 'json_premessages' in prompts[0] and prompts[0]['json_premessages']:
+        chat_settings['messages'] += open_prompt_file(prompts[0]['json_premessages'])
     chat_settings['messages'] += [
         {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompts[0]['message'])},],}
     ]
@@ -135,6 +137,8 @@ def generate_deepseek_content(
             content_files = [
                 {"type": "text", "text": f'<file name="{Path(file).name}">{open_prompt_file(file)}</file>'} for file in prompt['files'] if 'files' in prompt and prompt['files']
             ]
+            if 'json_premessages' in prompt and prompt['json_premessages']:
+                chat_settings['messages'] += open_prompt_file(prompt['json_premessages'])
             chat_settings['messages'] += [
                 {"role": "user", "content": content_files + [{"type": "text", "text": open_prompt_file(prompt["message"])},],},
             ]
@@ -188,7 +192,7 @@ def generate_deepseek_content(
     if with_json_output:
         output_json_file = create_incremental_file(f"./outputs/{output_file_name}_reasoning.json")
         with open(output_json_file, "a") as f:
-            f.write(json.dumps(chat_settings, indent=4))
+            f.write(json.dumps(chat_settings['messages'], indent=4))
             f.close()
 
     print(f'Deepseek content generation is done: {output_file}, {output_reasoning_file}')

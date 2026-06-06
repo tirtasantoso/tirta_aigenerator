@@ -1,3 +1,4 @@
+import json
 from pathlib import Path
 
 def create_incremental_file(file_name):
@@ -19,4 +20,7 @@ def create_incremental_file(file_name):
     return path
 
 def open_prompt_file(file_path='./prompts/prompt1.md'):
-    return Path(file_path).read_text(encoding='utf-8')
+    if Path(file_path).suffix in ['.json']:
+        return json.loads(Path(file_path).read_text(encoding='utf-8'))
+    else:
+        return Path(file_path).read_text(encoding='utf-8')
