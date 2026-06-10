@@ -88,18 +88,18 @@ def main():
             'message': './prompts/prompt11_future_godric.md',
             'files': []
         },
-        # {
-        #     'message': './prompts/prompt12_godric_skills.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt20_godric_vs_earth.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt21_godric_vs_fiction.md',
-        #     'files': []
-        # },
+        {
+            'message': './prompts/prompt12_godric_skills.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt20_godric_vs_earth.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt21_godric_vs_fiction.md',
+            'files': []
+        },
     ]
 
     # generate_deepseek_content(
