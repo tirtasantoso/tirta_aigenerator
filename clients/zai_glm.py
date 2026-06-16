@@ -16,7 +16,7 @@ def generate_glm_content(
 
     print(f'GLM content generation starts now...')
 
-    glm_model = 'glm-5.1' # either 'glm-5.1' or 'glm-4.7'
+    glm_model = 'glm-5.2' # either 'glm-5.1' or 'glm-4.7'
 
     client = OpenAI(
         api_key=os.environ.get('ZAI_GLM_API_KEY'),

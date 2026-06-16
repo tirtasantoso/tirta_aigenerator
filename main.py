@@ -14,18 +14,13 @@ def main():
 
     prompts_list = [
         # {
-        #     'json_premessages': './outputs/deepseek_20260606_231136_reasoning.json',
+        #     'json_premessages': './outputs/glm_20260613_102637_reasoning.json',
+        #     'message': './prompts/prompt23_godric_infiltration.md',
+        #     'files': [],
+        # },
+        # {
         #     'message': './prompts/prompt22_godric_video_game.md',
-        #     'files': [
-        #         # './prompts/references/thronegate/00_MASTER_LORE.md',
-        #         # './prompts/references/thronegate/01_godric_origin.md',
-        #         # './prompts/references/thronegate/02_rogr_trauma.md',
-        #         # './prompts/references/thronegate/03_sentient_aura.md',
-        #         # './prompts/references/thronegate/04_immune_system.md',
-        #         # './prompts/references/thronegate/05_godric_intelligence.md',
-        #         # './prompts/references/thronegate/06_godric_magic.md',
-        #         # './prompts/references/thronegate/07_statjournals.md',
-        #     ],
+        #     'files': [],
         # },
         # {
         #     'message': './prompts/prompt2_rogr_trauma.md',
