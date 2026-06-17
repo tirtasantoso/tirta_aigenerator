@@ -55,12 +55,10 @@ def main():
                 './prompts/references/thronegate/07_statjournals.md',
             ]
         },
-        # {
-        #     'message': './prompts/prompt7b_redothis.md',
-        #     'files': [
-        #         './prompts/references/thronegate/07_statjournals.md',
-        #     ]
-        # },
+        {
+            'message': './prompts/prompt7b_redothis.md',
+            'files': []
+        },
         {
             'message': './prompts/prompt8_superpowers.md',
             'files': [
