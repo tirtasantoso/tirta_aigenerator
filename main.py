@@ -22,77 +22,83 @@ def main():
         #     'message': './prompts/prompt22_godric_video_game.md',
         #     'files': [],
         # },
-        # {
-        #     'message': './prompts/prompt2_rogr_trauma.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt3_gent_incident.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt4_immune_system.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt5_godric_intelligence.md',
-        #     'files': []
-        # },
-        # {
-        #     'message': './prompts/prompt6_godric_magic.md',
-        #     'files': []
-        # },
         {
-            'message': './prompts/prompt7_statjournals.md',
+            'message': './prompts/prompt1_thronegate.md',
             'files': [
                 './prompts/references/thronegate/00_MASTER_LORE.md',
-                './prompts/references/thronegate/01_godric_origin.md',
-                './prompts/references/thronegate/02_rogr_trauma.md',
-                './prompts/references/thronegate/03_sentient_aura.md',
-                './prompts/references/thronegate/04_immune_system.md',
-                './prompts/references/thronegate/05_godric_intelligence.md',
-                './prompts/references/thronegate/06_godric_magic.md',
-                './prompts/references/thronegate/07_statjournals.md',
             ]
         },
         {
-            'message': './prompts/prompt7b_redothis.md',
+            'message': './prompts/prompt2_rogr_trauma.md',
             'files': []
         },
         {
-            'message': './prompts/prompt8_superpowers.md',
-            'files': [
-                './prompts/references/thronegate/08_superpowers.md',
-            ]
-        },
-        {
-            'message': './prompts/prompt9_pleasurable_stats.md',
-            'files': []
-        },
-        # {
-        #     'message': './prompts/prompt10_godric_universe.md',
-        #     'files': []
-        # },
-        {
-            'message': './prompts/prompt10_stasis_origin.md',
+            'message': './prompts/prompt3_gent_incident.md',
             'files': []
         },
         {
-            'message': './prompts/prompt11_future_godric.md',
+            'message': './prompts/prompt4_immune_system.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt5_godric_intelligence.md',
+            'files': []
+        },
+        {
+            'message': './prompts/prompt6_godric_magic.md',
             'files': []
         },
         # {
-        #     'message': './prompts/prompt12_godric_skills.md',
+        #     'message': './prompts/prompt7_statjournals.md',
+        #     'files': [
+        #         './prompts/references/thronegate/00_MASTER_LORE.md',
+        #         './prompts/references/thronegate/01_godric_origin.md',
+        #         './prompts/references/thronegate/02_rogr_trauma.md',
+        #         './prompts/references/thronegate/03_sentient_aura.md',
+        #         './prompts/references/thronegate/04_immune_system.md',
+        #         './prompts/references/thronegate/05_godric_intelligence.md',
+        #         './prompts/references/thronegate/06_godric_magic.md',
+        #         './prompts/references/thronegate/07_statjournals.md',
+        #     ]
+        # },
+        # {
+        #     'message': './prompts/prompt7b_redothis.md',
         #     'files': []
         # },
-        {
-            'message': './prompts/prompt20_godric_vs_earth.md',
-            'files': []
-        },
-        {
-            'message': './prompts/prompt21_godric_vs_fiction.md',
-            'files': []
-        },
+        # {
+        #     'message': './prompts/prompt8_superpowers.md',
+        #     'files': [
+        #         './prompts/references/thronegate/08_superpowers.md',
+        #     ]
+        # },
+        # {
+        #     'message': './prompts/prompt9_pleasurable_stats.md',
+        #     'files': []
+        # },
+        # # {
+        # #     'message': './prompts/prompt10_godric_universe.md',
+        # #     'files': []
+        # # },
+        # {
+        #     'message': './prompts/prompt10_stasis_origin.md',
+        #     'files': []
+        # },
+        # {
+        #     'message': './prompts/prompt11_future_godric.md',
+        #     'files': []
+        # },
+        # # {
+        # #     'message': './prompts/prompt12_godric_skills.md',
+        # #     'files': []
+        # # },
+        # {
+        #     'message': './prompts/prompt20_godric_vs_earth.md',
+        #     'files': []
+        # },
+        # {
+        #     'message': './prompts/prompt21_godric_vs_fiction.md',
+        #     'files': []
+        # },
     ]
 
     # generate_deepseek_content(
