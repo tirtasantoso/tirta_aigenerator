@@ -116,17 +116,17 @@ def main():
     #     prompt=prompts_list[0],
     # )
 
-    generate_glm_content(
-        system_persona=system_persona,
-        prompts=prompts_list,
-        reasoning_effort='high',
-        with_json_output=True,
-    )
-
-    # generate_gemini_content(
+    # generate_glm_content(
     #     system_persona=system_persona,
     #     prompts=prompts_list,
+    #     reasoning_effort='high',
+    #     with_json_output=True,
     # )
+
+    generate_gemini_content(
+        system_persona=system_persona,
+        prompts=prompts_list,
+    )
 
     # generate_gemini_image(
     #     prompts=['./prompts/image_prompt2.md',],
