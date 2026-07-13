@@ -62,15 +62,15 @@ def main():
             ]
         },
         {
-            'message': './prompts/prompt7b_redothis.md',
-            'files': []
-        },
-        {
             'message': './prompts/prompt8_superpowers.md',
             'files': [
                 './prompts/references/thronegate/08_superpowers.md',
             ]
         },
+        # {
+        #     'message': './prompts/prompt7b_redothis.md',
+        #     'files': []
+        # },
         {
             'message': './prompts/prompt9_pleasurable_stats.md',
             'files': []
@@ -87,10 +87,10 @@ def main():
             'message': './prompts/prompt11_future_godric.md',
             'files': []
         },
-        # {
-        #     'message': './prompts/prompt12_godric_skills.md',
-        #     'files': []
-        # },
+        {
+            'message': './prompts/prompt12_godric_skills.md',
+            'files': []
+        },
         {
             'message': './prompts/prompt20_godric_vs_earth.md',
             'files': []

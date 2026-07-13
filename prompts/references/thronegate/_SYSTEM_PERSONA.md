@@ -26,3 +26,4 @@
 - Avoid generic phrasing or filler sentences.
 - Use fresh, specific language instead of clichés or idioms.
 - Keep internal monologue voice-consistent and emotionally grounded.
+- Avoid repetition. Do not repeat what has been stated few sentences ago.
