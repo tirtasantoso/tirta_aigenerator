@@ -259,7 +259,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * Godric can deactivate or exclude these shields for theatre, curiosity, or demonstration, as in the Year 25,000 immune-system incident.
 * If Godric did not deliberately allow certain opposition to exist, these shields alone could pre-annihilate them instantly and effortlessly.
 * In the far future, the passive shields have evolved countless times. The older version already made resistance impossible; the far-future version makes the older version look almost primitive by comparison.
-* Far-future passive shields have devastatingly powerful effects, the weakest ones include ability to convert attempted danger into self-erasing failure, force hostile realities to collapse around their own intention, and make the basic logistics of opposition impossible before a hostile actor notices the impulse forming.
+* Far-future passive shields have even more devastatingly powerful effects. You must include some absurdly overpowered and unfair effects.
 * Even these far-future shields remain only one redundant layer among many. Godric does not need them, but they exist anyway.
 
 ## **Weakness Paradox (Year \-10,000 onwards)**
@@ -419,12 +419,7 @@ When an injury is detected or falsely perceived:
 
 ## **Far-Future Immune System Evolution**
 
-* In the far future, Godric’s immune system has evolved countless times beyond the Year 25,000 version.
-* The original immune system already pre-reacted to theoretical scratches by initiating self-evolution across infinite recursive backups.
-* The far-future immune system can treat the possibility of harm as an object to be hunted, humiliated, digested, converted, and erased before any actual injury exists.
-* If a rogue timeline, hostile reality, or impossible weapon carries even the theoretical variable needed to threaten Godric, the immune system can make the surrounding structure of existence turn against that threat with frantic biological loyalty.
-* The omniverse itself can behave like Godric’s white blood cells, cannibalizing rogue danger before it matures.
-* This does not mean Godric needs protection. It means even his redundant biological systems have become terrifyingly superfluous tyrannies of self-preservation, inconvenience-prevention, and excess obedience.
+* In the far future, Godric’s immune system has evolved countless times beyond the Year 25,000 version. They have even more devastatingly powerful effects. You must include some absurdly overpowered and unfair effects.
 * The far-future immune system should make the old immune system feel horrifyingly weak by comparison, even though the old version was already beyond comprehension.
 
 ---
