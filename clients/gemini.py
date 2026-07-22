@@ -16,7 +16,7 @@ def generate_gemini_content(
 
     print(f'Gemini content generation starts now...')
 
-    gemini_model = "gemini-3.5-flash" # either "gemini-3.1-pro-preview", "gemini-3.5-flash"
+    gemini_model = "gemini-3.6-flash" # either "gemini-3.1-pro-preview", "gemini-3.5-flash"
 
     client = genai.Client(
         api_key=os.environ.get('GEMINI_API_KEY')
