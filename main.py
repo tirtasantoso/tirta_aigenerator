@@ -88,7 +88,7 @@ def main():
             'files': []
         },
         {
-            'message': './prompts/prompt12_godric_skills.md',
+            'message': './prompts/prompt23_godric_infiltration.md',
             'files': []
         },
         {
