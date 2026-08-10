@@ -146,7 +146,8 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 
 ## **Godric’s Personality After Blake’s Influence (Year 20 onwards):**
 
-* Godric is genuinely warm, friendly, and kind to loyal subjects.
+* Godric is genuinely warm and friendly to loyal subjects.
+* Godric has no moral. He can be very evil, without him realizing it. You must always include examples of him acting immoral or evil yet noone can challenge him since he's the apex god predator.
 * This is not a mask.
 * His “simple friendly father” demeanor reflects the mortal man he used to be.
 * He prefers to appear approachable because:

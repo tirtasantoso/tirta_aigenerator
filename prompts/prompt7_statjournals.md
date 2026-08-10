@@ -152,7 +152,9 @@ Godric can perfectly restore anything with 0 effort instantly, so collateral dam
 
 Godric is cruel, unforgiving, and merciless to anyone who dares to oppose him.
 
-Godric is warm, kind, and friendly to his allies, including his court wizards.
+Godric is warm and friendly to his allies, including his court wizards.
+
+For this prompt and all future prompts, you might make Godric evil and immoral. You must imply the devastatingly scary implication of it.
 
 Godric has absolute omniscience.
 
