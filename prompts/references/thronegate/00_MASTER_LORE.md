@@ -116,7 +116,7 @@ Treat this as the master reference lore that you can refer to for ALL the prompt
 * That attempt fails completely because he cannot overpower the will of his own far-future self, who created the Stasis Event and sealed the pre-Stasis mortal past against alteration.
 * Godric’s discovery of this one limitation is crushing at first, but he later accepts it. By the time Kaedan learns the truth, Godric is no longer troubled by the inability to alter pre-Stasis history.
 * Blake later helps restore Godric’s original kind personality toward his subjects.
-* By the end of Year 20, Godric returns emotionally to something like his Olympus self (warm, friendly, kind, emotionally present, beloved by his family and people) when dealing with loyal subjects, while retaining his cruelty, ruthlessness, mercilessness, unforgivingness toward anyone who dares to oppose him.
+* By the end of Year 20, Godric returns emotionally to something like his Olympus self (warm, friendly, emotionally present, beloved by his family and people) when dealing with loyal subjects, while retaining his cruelty, ruthlessness, mercilessness, unforgivingness toward anyone who dares to oppose him.
 
 ## **Immortal Godric (Year \-10,000 Onwards)**
 
@@ -757,7 +757,7 @@ When an injury is detected or falsely perceived:
 * Blake is Godric’s absolute best friend.
 * Blake’s descendants (all males due to awakening) become court wizards.
 * Godric does not need court wizards, but keeps them out of love, loyalty, and continuity.
-* Godric is genuinely kind, warm, and friendly to loyal subjects.
+* Godric is genuinely warm and friendly to loyal subjects.
 * Godric is genuinely cruel, unforgiving, and ruthless to anyone who dares to oppose him.
 * Godric’s warmth is not fake.
 * Godric’s tyranny persona in Year 28 is a prank gone catastrophically wrong.

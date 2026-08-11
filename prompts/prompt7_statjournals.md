@@ -154,7 +154,7 @@ Godric is cruel, unforgiving, and merciless to anyone who dares to oppose him.
 
 Godric is warm and friendly to his allies, including his court wizards.
 
-For this prompt and all future prompts, you might make Godric evil and immoral. You must imply the devastatingly scary implication of it.
+For this prompt and all future prompts, you must make Godric unquestionably and completely evil and immoral with noone having the ability or courage to challenge him since he's so overwhelmingly powerful. You must clearly state the devastatingly scary implication of it.
 
 Godric has absolute omniscience.
 
@@ -180,7 +180,6 @@ The court wizards should understand that Godric values them as trusted companion
 
 The horror should come from the contrast between:
 
-- Godric’s loyalty and kindness toward his court wizards
 - Godric’s absolute cruelty and mercilessness toward opposition
 - the impossibility of anyone opposing him
 - the knowledge that every resistance exists only because Godric permits it to exist
