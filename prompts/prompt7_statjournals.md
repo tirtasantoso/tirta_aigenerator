@@ -136,6 +136,7 @@ Incorrect scale examples:
 
 - thousands of galaxies
 - millions of lives
+- decillions of multiverses (avoid this when describing omniversal level destruction, since an omniverse consists of countless multiverses)
 
 Minimum acceptable scale examples:
 
@@ -154,7 +155,7 @@ Godric is cruel, unforgiving, and merciless to anyone who dares to oppose him.
 
 Godric is warm and friendly to his allies, including his court wizards.
 
-For this prompt and all future prompts, you must make Godric unquestionably and completely evil and immoral with noone having the ability or courage to challenge him since he's so overwhelmingly powerful. You must clearly state the devastatingly scary implication of it.
+For this prompt and all future prompts, you must make Godric's action unquestionably evil and immoral, and yet noone had the ability or courage to challenge him since he's so overwhelmingly powerful. You must clearly state the devastatingly scary implication of it.
 
 Godric has absolute omniscience.
 
